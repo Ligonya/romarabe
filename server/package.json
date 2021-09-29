@@ -1,0 +1,21 @@
+{
+  "name": "romarabe-server",
+  "description": "Micro-service permettant de traduire un nombre romain en un nombre arabe (et inversement)",
+  "version": "1.0.0",
+  "author": "aligony",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "nodemon": "^2.0.12"
+  }
+}

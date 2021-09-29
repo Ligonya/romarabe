@@ -1,0 +1,14 @@
+### BUILD ###
+dist/
+
+### NODE JS ###
+node_modules/
+
+### NPM ###
+package-lock.json
+npm-debug.log
+
+### YARN ###
+yarn-debug.log
+yarn-error.log
+yarn.lock
