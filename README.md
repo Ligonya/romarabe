@@ -10,7 +10,7 @@ Démo :
 
 - Node Js - [Express](https://expressjs.com/fr/) coté serveur
 - [React](https://fr.reactjs.org/) (avec [Vite](https://vitejs.dev/) en bundler) coté client
-- [Jest](https://jestjs.io/fr/) pour tester les fonctions de conversion utiliser sur l'API.
+- [Jest](https://jestjs.io/fr/) pour tester les fonctions de conversion utilisées sur l'API.
 
 ## Installation
 
