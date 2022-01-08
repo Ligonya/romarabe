@@ -14,7 +14,7 @@ Démo :
 
 ## Installation
 
-> Prérequis : une verison récente de Node Js
+> Prérequis : une version récente de Node Js
 
 ### Serveur
 
